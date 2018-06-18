@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Complex.cpp
+Complex.cpp(2): fatal error C1083: Не удается открыть файл включение: iostream: No such file or directory
+  myComplex.cpp
+c:\users\eva\desktop\mycomplex\mycomplex\Complex.h(3): fatal error C1083: Не удается открыть файл включение: iostream: No such file or directory
+  Создание кода...
